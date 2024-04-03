@@ -211,7 +211,7 @@ display: block;
   /* Our Team */
   .section-ourteam {
     background-color: #f4f4fd;
-    padding: 120px 0;
+    
 }
 .ourteam-container-list{
     text-align: center;
@@ -263,9 +263,11 @@ display: block;
 
   }
   .portfolio-container{
-    padding: 32px 16px;
+    
+    border: 1px solid #e7e9fc;
     border-top: none;
-    border: 1px solid #e7e9fe;
+    padding: 32px 16px;
+    
   }
 .portfolio-title {
     font-weight: 700;
