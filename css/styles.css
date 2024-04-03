@@ -169,9 +169,9 @@ display: block;
 }
   
   /* advantages */
-  /* .advantages-section{
+  .advantages-section{
     padding: 120px 0;
-  } */
+  } 
 .visually-hidden{
     position: absolute;
     width: 1px;
